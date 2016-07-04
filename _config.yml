@@ -9,7 +9,7 @@ name: ISC 2017 Notes
 description: Accessible literature notes for all.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://static.dnaindia.com/sites/default/files/2015/05/17/337232-cisce-logo.jpg
+avatar: {{ site.baseurl }}/images/cicse.jpg
 
 #
 # Flags below are optional
