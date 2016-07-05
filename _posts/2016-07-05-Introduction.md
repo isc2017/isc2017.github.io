@@ -8,3 +8,5 @@ This website contains the notes of English and Bengali Literature that were prov
 For contribution or error-reporting, contact this <a href="mailto:isc2017vmsnotes@gmail.com">email address</a>.
 
 We hope that this site helps you in making your studies easier.
+
+Currently, this site is under development.
